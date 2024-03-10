@@ -1,1 +1,2 @@
 # LJQ
+my first repository
